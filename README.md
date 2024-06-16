@@ -53,6 +53,4 @@ Open http://localhost:3000 in your browser to see your application in action.
 📚 Further Customization
 Feel free to expand this template with more details specific to your project or additional setup instructions as needed. This project is designed to be a starting point for showcasing your work in a professional and engaging manner.
 
-Happy coding! 🎉 ```
-
-NEXT_PUBLIC_GITHUB_JOIN_YEAR="year-you-joined-github"
+Happy coding! 🎉
