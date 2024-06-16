@@ -37,13 +37,16 @@ NEXT_PUBLIC_SANITY_HOOK_SECRET: Secret key for webhooks or other integrations wi
 GitHub Contribution Graph Details
 NEXT_PUBLIC_GITHUB_USERNAME: Your GitHub username.
 NEXT_PUBLIC_GITHUB_JOIN_YEAR: The year you joined GitHub.
+```
 🔑 Important: Replace placeholders like "your-github-username" and "year-you-joined-github" with your actual GitHub username and join year.
 
 Installation
 To install the necessary packages and run the project, execute the following commands in your terminal:
 
+```
 npm install
 npm run
+```
 Viewing the Project
 Open http://localhost:3000 in your browser to see your application in action.
 
